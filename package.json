@@ -1,0 +1,19 @@
+{
+  "name": "cse341_project_1",
+  "version": "1.0.0",
+  "description": "CSE341 Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alancrisanto/CSE341_Project_1.git"
+  },
+  "author": "acrisanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alancrisanto/CSE341_Project_1/issues"
+  },
+  "homepage": "https://github.com/alancrisanto/CSE341_Project_1#readme"
+}

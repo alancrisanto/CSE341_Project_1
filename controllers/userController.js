@@ -58,6 +58,7 @@ const updateUser = async (req, res) => {
 		res.status(500).json(response.error || "some error ocurred while updating the user");
 	}
 };
+
 const deleteUser = async (req, res) => {
 	// #swagger.tags=['Users]
 	const userId = new ObjectId(req.params.id);
